@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{264C5190-D495-4681-B237-34D7BA63542D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4AC003EA-C0D3-4A69-8A1D-533306DBD068}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POSTMAN-Collection", "POSTMAN-Collection", "{E5F7F2BB-A81F-4680-954C-DA2F0BDA6050}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{A42AFB1B-ED83-4DA5-98EF-BAACAA964064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{47BA0D52-1969-409E-A173-EEEFE6076514}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{38587608-F20B-481D-9132-65F866241067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Domain", "src\Rocco.Domain\Rocco.Domain.csproj", "{2A5C6089-3983-46E8-B737-609F78B45C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Web.API", "src\Rocco.Web.API\Rocco.Web.API.csproj", "{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5C6089-3983-46E8-B737-609F78B45C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5C6089-3983-46E8-B737-609F78B45C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5C6089-3983-46E8-B737-609F78B45C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5C6089-3983-46E8-B737-609F78B45C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5F7F2BB-A81F-4680-954C-DA2F0BDA6050} = {4AC003EA-C0D3-4A69-8A1D-533306DBD068}
+		{A42AFB1B-ED83-4DA5-98EF-BAACAA964064} = {14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}
+		{47BA0D52-1969-409E-A173-EEEFE6076514} = {14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}
+		{38587608-F20B-481D-9132-65F866241067} = {14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}
+		{2A5C6089-3983-46E8-B737-609F78B45C6F} = {47BA0D52-1969-409E-A173-EEEFE6076514}
+		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7} = {A42AFB1B-ED83-4DA5-98EF-BAACAA964064}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4246E8AA-2AB6-409B-8D17-95D6202B1FCE}
+	EndGlobalSection
+EndGlobal

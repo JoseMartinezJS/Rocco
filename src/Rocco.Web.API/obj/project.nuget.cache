@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VDyGn8ipRWx+9xJFmwzPMWW8zayr/Hr+6prW9Ill2Z9JufWoAkjnx7aMhG4Vv93K7wENsrDbk6OjjOXWK5rEA==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
