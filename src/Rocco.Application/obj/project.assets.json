@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Rocco.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Rocco.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rocco.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rocco.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Rocco.Domain/Rocco.Domain.csproj",
+      "msbuildProject": "../Rocco.Domain/Rocco.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Rocco.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\josem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Application\\Rocco.Application.csproj",
+      "projectName": "Rocco.Application",
+      "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Application\\Rocco.Application.csproj",
+      "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
+      "outputPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj": {
+              "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

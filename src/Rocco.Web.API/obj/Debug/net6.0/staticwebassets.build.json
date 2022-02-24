@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oFmrBWlC+yVWF0SKPYWc02+JjEGOvcskd8fn16SVKck=",
+  "Source": "Rocco.Web.API",
+  "BasePath": "_content/Rocco.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{264C5190-D495-4681-B237-34D7BA63542D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}"
 EndProject
@@ -17,9 +21,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{47BA0D52-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{38587608-F20B-481D-9132-65F866241067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Domain", "src\Rocco.Domain\Rocco.Domain.csproj", "{2A5C6089-3983-46E8-B737-609F78B45C6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rocco.Domain", "src\Rocco.Domain\Rocco.Domain.csproj", "{2A5C6089-3983-46E8-B737-609F78B45C6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Web.API", "src\Rocco.Web.API\Rocco.Web.API.csproj", "{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rocco.Web.API", "src\Rocco.Web.API\Rocco.Web.API.csproj", "{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Application", "src\Rocco.Application\Rocco.Application.csproj", "{9EEEF662-BF03-4957-8A59-BAD15FF1CB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocco.Persistence", "src\Rocco.Persistence\Rocco.Persistence.csproj", "{D1AFD206-B8C6-4028-A48A-0E028C75CD73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +43,14 @@ Global
 		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEEF662-BF03-4957-8A59-BAD15FF1CB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEEF662-BF03-4957-8A59-BAD15FF1CB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEEF662-BF03-4957-8A59-BAD15FF1CB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEEF662-BF03-4957-8A59-BAD15FF1CB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AFD206-B8C6-4028-A48A-0E028C75CD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AFD206-B8C6-4028-A48A-0E028C75CD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AFD206-B8C6-4028-A48A-0E028C75CD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AFD206-B8C6-4028-A48A-0E028C75CD73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +62,8 @@ Global
 		{38587608-F20B-481D-9132-65F866241067} = {14C8EAF9-DFC6-4492-B427-3E155AD0A0E6}
 		{2A5C6089-3983-46E8-B737-609F78B45C6F} = {47BA0D52-1969-409E-A173-EEEFE6076514}
 		{894B47DB-F3BF-4713-9CEF-FE2FCAD515B7} = {A42AFB1B-ED83-4DA5-98EF-BAACAA964064}
+		{9EEEF662-BF03-4957-8A59-BAD15FF1CB70} = {47BA0D52-1969-409E-A173-EEEFE6076514}
+		{D1AFD206-B8C6-4028-A48A-0E028C75CD73} = {38587608-F20B-481D-9132-65F866241067}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4246E8AA-2AB6-409B-8D17-95D6202B1FCE}

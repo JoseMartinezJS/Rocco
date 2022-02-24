@@ -261,7 +261,7 @@ dotnet_diagnostic.IDE0062.severity = warning
 
 # IDE0073: File header
 dotnet_diagnostic.IDE0073.severity = warning
-file_header_template = <copyright file="{fileName}" company="Rocco Company">\nCopyright (c) 2022, Heliberto Arias\n</copyright>
+file_header_template = <copyright file="{fileName}" company="Rocco Company">\nCopyright (c) 2022, Jose Manuel Martinez\n</copyright>
 
 # IDE0161: Convert to file-scoped namespace
 dotnet_diagnostic.IDE0161.severity = warning

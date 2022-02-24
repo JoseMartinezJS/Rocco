@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj": {}
+    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj": {}
   },
   "projects": {
-    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj": {
+    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj",
+        "projectUniqueName": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj",
         "projectName": "Rocco.Web.API",
-        "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj",
+        "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Web.API\\Rocco.Web.API.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Web.API\\obj\\",
+        "outputPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Web.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

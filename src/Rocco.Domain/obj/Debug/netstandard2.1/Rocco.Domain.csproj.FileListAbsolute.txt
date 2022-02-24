@@ -1,0 +1,10 @@
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\bin\Debug\netstandard2.1\Rocco.Domain.deps.json
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\bin\Debug\netstandard2.1\Rocco.Domain.dll
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\bin\Debug\netstandard2.1\Rocco.Domain.pdb
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.csproj.AssemblyReference.cache
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.AssemblyInfoInputs.cache
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.AssemblyInfo.cs
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.csproj.CoreCompileInputs.cache
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.dll
+E:\Documents\Bootcamp Jalasoft\BackEnd .Net\Rocco\src\Rocco.Domain\obj\Debug\netstandard2.1\Rocco.Domain.pdb

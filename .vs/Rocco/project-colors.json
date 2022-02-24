@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a5c6089-3983-46e8-b737-609f78b45c6f": {
+      "ProjectGuid": "2a5c6089-3983-46e8-b737-609f78b45c6f",
+      "DisplayName": "Rocco.Domain",
+      "ColorIndex": 0
+    },
+    "894b47db-f3bf-4713-9cef-fe2fcad515b7": {
+      "ProjectGuid": "894b47db-f3bf-4713-9cef-fe2fcad515b7",
+      "DisplayName": "Rocco.Web.API",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

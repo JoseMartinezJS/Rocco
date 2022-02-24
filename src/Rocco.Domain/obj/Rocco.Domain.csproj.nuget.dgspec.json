@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj": {}
+    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj": {
+    "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj",
+        "projectUniqueName": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj",
         "projectName": "Rocco.Domain",
-        "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj",
+        "projectPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\Rocco.Domain.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\Rocco\\src\\Rocco.Domain\\obj\\",
+        "outputPath": "E:\\Documents\\Bootcamp Jalasoft\\BackEnd .Net\\Rocco\\src\\Rocco.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
